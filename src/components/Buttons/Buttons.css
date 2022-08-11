@@ -1,0 +1,50 @@
+
+
+
+/* Button Sizes */
+.btn {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    width: 100%;
+    height: 56px;
+}
+.black_btn {
+    border: 1px solid var(--green-900);
+    color: var(--green-900);
+}
+.orange_btn {
+    border: 1px solid var(--orange-400);
+    background-color: var(--orange-400);
+    color: var(--green-900);
+}
+.white_btn {
+    /* border: 1px solid var(--orange-400);
+    color: var(--orange-400); */
+}
+
+.small_btn {
+    width: 218px;
+    height: 40px;
+    padding: 9px;
+}
+
+/* .medium_btn {} */
+
+.big_btn {
+    width: 264px;
+    height: 64px;
+    padding: 21px;
+}
+
+.imgSize {
+    width: 24px;
+    height: 24px;
+}
+
+
+.buttons {
+    padding-top: 0 !important;
+}

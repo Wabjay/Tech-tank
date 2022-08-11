@@ -1,0 +1,155 @@
+.heading {
+    text-align: left;
+}
+button.quote {
+    width: 264px;
+    height: 64px;
+    background: var(--orange-400);
+    border: 1px solid var(--orange-400);
+    text-align: center;
+    padding: 21px;
+    margin-top: 40px;
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--green-900);
+}
+/* Contact Page */
+.align-center > *, .align-center .centered{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.green-banner {
+    background-color: var(--green-700);
+}
+.white-banner {
+    background-color: var(--white);
+}
+
+.green-title {
+    width: 289px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    color: var(--orange-100);
+}
+.white-title {
+    width: 214px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    color: var(--green-800);
+}
+
+
+.green-banner .centered{
+    margin-top: 24px;
+}
+
+.white-banner .centered{
+    margin-top: 40px;
+}
+
+.centered > p{
+    width: 90%;
+    max-width: 595px;
+    font-style: normal;
+    font-weight: 400;
+}
+.green-banner .centered > p {
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--white);
+}
+.white-banner .centered > p {
+    font-size: 24px;
+    line-height: 32px;
+    color: var(--grey-600);
+}
+
+.centered > form{
+    margin-top: 40px;
+}
+
+
+@media (min-width: 576px) {
+
+    .green-title,
+    .white-title {
+        width: 473px;
+        font-size: 44px;
+        line-height: 49px;
+    }
+
+    .green-banner .centered > p {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .white-title {
+        width: 298px;
+    }
+}
+
+
+@media (min-width: 1024px) {
+
+    button.quote {
+        margin-top: 50px;
+    }
+
+    .green-title,
+    .white-title {
+        width: 795px;
+        font-size: 70px;
+        line-height: 82px;
+        letter-spacing: -2px;
+    }
+    .centered{
+        width: fit-content;
+        margin: 32px 10% 0 auto;
+    }
+    .white-banner .centered{
+        margin-top: 50px !important;
+    }
+    .centered > p{
+        width: 100%;
+    }
+    .white-banner .centered > p{
+        max-width: 631px;
+    }
+
+    .white-title {
+        width: 469px;
+    }
+    .centered > form{
+        margin-top: 50px;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    .green-title {
+        width: 771px;
+    }
+    
+    .white-title {
+        width: 789px;
+        font-size: 110px;
+        line-height: 125px;
+        letter-spacing: 2px;
+    }
+    .centered{
+        width: fit-content;
+        margin: 32px 9% 0 auto;
+    }
+    .white-banner .centered > p{
+        max-width: 745px;
+    }
+}

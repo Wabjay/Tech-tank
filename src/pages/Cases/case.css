@@ -1,0 +1,124 @@
+.case-banner {
+    background-color: var(--grey-800);
+    color: var(--white);
+    text-align: left;
+}
+
+.banner_header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    width: 100%;
+    max-width: 288px;
+}
+
+.banner_text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 40px 0 80px;
+}
+.splitImg>img{
+    margin-bottom: 40px;
+}
+
+.bannerImg {
+    width: 100%;
+    max-width: 860px;
+}
+
+.bigHead {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    color: var(--grey-800);
+    padding: 80px 0;
+    border-top: 1px solid var(--grey-200);
+    text-align: left;
+}
+
+.dosimetryImg{
+    margin-bottom: 40px;
+}
+.dosimetryImg > img {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 576px) {
+    .banner_header {
+        font-size: 44px;
+        line-height: 49px;
+        max-width: 528px;
+    }
+
+    .banner_text {
+        font-size: 24px;
+        line-height: 32px;
+        width: 90%;
+        max-width: 740px;
+    }
+
+    .bigHead {
+        font-size: 44px;
+        line-height: 49px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .banner_header {
+        font-size: 70px;
+        line-height: 82px;
+        letter-spacing: -2px;
+        max-width: 720px;
+    }
+
+    .banner_text {
+        font-size: 24px;
+        line-height: 32px;
+        padding: 32px 0 100px;
+    }
+    .splitImg{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 24px;
+    }
+    .splitImg>img{
+        margin-bottom: 0;
+    }
+    
+    .dosimetryImg, .dosimetryImg > img{
+        margin-bottom: 50px;
+    }
+
+    .bigHead {
+        font-size: 70px;
+        line-height: 82px;
+        padding: 100px 0 50px;
+    }
+}
+.povertyStat{
+    width: 100%;
+    max-width: 656px;
+    margin: 100px 0;
+}
+
+@media (min-width: 1280px) {
+    .banner_text{
+        max-width: 900px;
+    }
+    .bannerImg {
+        max-width: 975px;
+    }
+    .splitImg{
+        grid-column-gap: 32px;
+    }
+    .povertyStat{
+        max-width: 790px;
+    }
+}

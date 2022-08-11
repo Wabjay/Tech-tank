@@ -1,0 +1,134 @@
+.aboutus_img {
+    width: 100%;
+    max-width: 1440px;
+    height: 180px;
+}
+
+.aboutus_top .btn {
+    display: none;
+}
+.aboutus_top{
+    background-image: url(../images/contact_right.png);
+    background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 132px 105px;
+}
+
+.aboutus_content {
+    background-color: var(--green-700);
+    background-image: url(../images/contact_left.png);
+    background-position: left top;
+  background-repeat: no-repeat;
+  background-size: 132px 105px;
+}
+
+.aboutus_content .BigHeader {
+    color: var(--white);
+    margin-bottom: 80px;
+}
+
+.aboutus_value{
+    padding: 32px 0;
+    width: 100%;
+    max-width: 714px;
+    text-align: left;
+    border-top: solid 1px var(--white);
+}
+.aboutus_value:last-child{
+    border-bottom: solid 1px var(--white);
+}
+.aboutus_content .title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--white);
+    margin-bottom: 16px;
+}
+
+.aboutus_content .text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--white);
+}
+
+
+@media (min-width: 576px) {
+    .aboutus_img {
+        height: 324px;
+    }
+
+    
+.aboutus_top,
+.aboutus_content{
+            background-size: 200px;
+    }
+    .aboutus_content .title {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .aboutus_content .text {
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .aboutus_top .BigHeader_container {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 100px;
+        max-width: 100%;
+    }
+
+    .aboutus_img {
+        height: 575px;
+    }
+    .aboutus_top{
+        background-position: bottom right -20px;
+        background-size: 343px;
+    }
+    .aboutus_content{
+        background-position: top left -100px;
+        background-size: 343px;
+}
+.aboutus_content .BigHeader {
+    margin-bottom: 100px;
+}
+    .aboutus_value{
+        display: grid;
+        grid-template-columns: 264px auto;
+        grid-column-gap: 40px;
+        padding: 56px 0;
+        margin-right: 0;
+    margin-left: auto;
+    }
+    .aboutus_content .title {
+       margin-bottom: 0;
+    }
+}
+
+@media (min-width: 1280px) {
+    .aboutus_img {
+        height: 808px;
+    }
+
+    .aboutus_value{
+        max-width: 855px;
+        
+    }
+    .aboutus_content .title {
+        font-size: 32px;
+        line-height: 38px;
+        width: 264px;
+    }
+
+    .aboutus_content .text {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}

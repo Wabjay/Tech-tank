@@ -1,0 +1,12 @@
+/* COLORS */
+@import './colors.css';
+
+/* FONTS */
+@import './fonts.css';
+
+/* General  */
+@import './general.css';
+
+/* Grids */
+
+@import '../components/Grids/Grids.css'

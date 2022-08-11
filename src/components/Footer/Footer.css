@@ -1,0 +1,121 @@
+.footer_top {
+    clear: both;
+    text-align: center;
+    background-color: var(--green-900);
+    /* background-image: url(../../images/footerbanner.png);
+    background-repeat: calc(2);
+    width: 100%; */
+}
+
+.footer_top .text {
+    width: 90%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--white);
+    margin: 0 auto;
+}
+
+.footer_top .btn {
+    margin-top: 40px;
+}
+
+.footer_bottom {
+    text-align: left;
+}
+
+.footer_logo {
+    width: 163px;
+    height: 82px;
+}
+
+.pages,
+.contacts {
+    margin-top: 80px;
+    width: 238px;
+}
+
+.pages ul,
+.contacts p {
+    list-style: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--grey-600);
+}
+
+.pages li {
+    margin-top: 22px;
+}
+.pages li> a {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #575F68;
+}
+
+.contacts p {
+    margin-top: 16px;
+}
+
+.footer_title,
+.contacts .footer_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--grey-800);
+    margin-top: 0;
+}
+
+@media (min-width: 576px) {
+    .footer_top .text {
+        width: 80%;
+        max-width: 460px;
+        font-size: 32px;
+        line-height: 38px;
+
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer_bottom {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        /* justify-content: space-evenly; */
+    }
+
+    .pages,
+    .contacts {
+        margin-top: 0;
+    }
+
+    .footer_top .text {
+        font-size: 44px;
+        line-height: 49px;
+        /* width: 60%; */
+        max-width: 600px;
+    }
+
+    .footer_top .btn {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer_top .text {
+        font-size: 70px;
+        line-height: 82px;
+        letter-spacing: -2px;
+        width: 100%;
+        max-width: 1030px;
+    }
+
+    .footer_top .btn {
+        margin-top: 70px;
+    }
+}

@@ -1,0 +1,180 @@
+
+.contactus #banner{
+    background-image: url(../images/contact_left.png), url(../images/contact_right.png);
+    background-position: left bottom, right bottom;
+  background-repeat: no-repeat;
+  background-size: 132px 105px;
+}
+
+.contactus .green-title {
+    color: var(--white);
+}
+.contact_container{
+    background-color: var(--green-50);
+}
+
+
+
+.contactus .centered{
+    width: fit-content;
+}
+.contactus .centered > p{
+    margin: 0 auto;
+    max-width: 734px;
+}
+
+.contactus .contactBig {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--green-900);
+}
+
+.contactus .title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--green-800);
+}
+
+.contactus .text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--grey-600);
+}
+/* CONTACTUS PAGE */
+
+.contactus .centered {
+    width: fit-content;
+}
+
+.contactus .centered>p {
+    margin: 0 auto;
+    max-width: 734px;
+}
+
+.contact_details {
+    text-align: left;
+}
+
+.contact_details>div {
+    margin-top: 80px;
+}
+
+.contactus .contactBig {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--green-900);
+    text-align: left;
+    width: 90%;
+    max-width: 455px;
+}
+
+
+
+.contactus .title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    color: var(--green-800);
+    margin-bottom: 8px;
+    width: 100%;
+    max-width: 331px;
+}
+
+.contactus .text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--grey-600);
+    list-style: none;
+    width: 90%;
+}
+
+.contactus .whatsapp {
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+
+.contactus .whatsapp img {
+    width: 20px;
+    height: 20px;
+}
+
+@media (min-width:576px) {
+    .contactus #banner{
+      background-size: 200px 245px;
+    }
+    .contactus .contactBig {
+        font-size: 32px;
+        line-height: 38px;
+    }
+
+    .contactus .whatsapp img {
+        width: 29px;
+        height: 29px;
+    }
+}
+
+@media (min-width:1024px) {
+
+    .contactus #banner{
+        background-position: left bottom -30px, right bottom -30px;
+      background-size: 343px 275px;
+    }
+    .contactus .green-title {
+        width: 534px;
+    }
+
+    .contact_details {
+        width: fit-content;
+        display: grid;
+        grid-template-columns: 230px auto;
+        grid-gap: 50px 165px;
+        justify-content: space-between;
+        margin-top: 100px;
+        margin-right: 0;
+        margin-left: auto;
+    }
+    .contact_details>div {
+        margin-top: 0;
+    }
+
+    .contactus .text {
+        width: 100%;
+    }
+       /* CONTACT US */
+       .contactus .green-title{
+        width: 534px;
+    }
+
+}
+
+@media (min-width:1280px) {
+    .contactus #banner{
+        background-position: left bottom -80px, right bottom -80px;
+      background-size: 450px;
+    }
+    .aboutus_content{
+        background-size: 497px;
+}
+
+    .contactus .contactBig {
+        font-size: 44px;
+        line-height: 49px;
+        max-width: 637px;
+    }
+}
