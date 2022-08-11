@@ -12,13 +12,14 @@ import Ecommerce from "./pages/Cases/Ecommerce";
 import Loan from "./pages/Cases/Loan"
 import Poverty from "./pages/Cases/Poverty"
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Redirect } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
         <Navbar />
+        <Home />
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/services" element={<Services />} />
