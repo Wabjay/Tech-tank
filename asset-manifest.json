@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/tech-tank/static/css/main.e568d9d6.css",
-    "main.js": "/tech-tank/static/js/main.61a109fb.js",
+    "main.css": "/tech-tank/static/css/main.a76ffc50.css",
+    "main.js": "/tech-tank/static/js/main.caec2562.js",
     "static/media/aboutus.png": "/tech-tank/static/media/aboutus.ed572123a76c353ace3d.png",
     "static/media/wireless.png": "/tech-tank/static/media/wireless.b44f3ad2b8f15f7e281d.png",
+    "static/media/img1.png": "/tech-tank/static/media/img1.810ebbcd570354b5acab.png",
+    "static/media/img2.png": "/tech-tank/static/media/img2.8f2766cfcb2786c52785.png",
     "static/media/hardware_solution.png": "/tech-tank/static/media/hardware_solution.886427b889873a151bd6.png",
     "static/media/development.png": "/tech-tank/static/media/development.4668d4a195f087af6eac.png",
     "static/media/tecnical_consult.png": "/tech-tank/static/media/tecnical_consult.8a2305a5867615c3a3be.png",
@@ -29,11 +31,11 @@
     "static/media/contact_left.png": "/tech-tank/static/media/contact_left.6b8a7d0034f4bb34f0ce.png",
     "static/media/footer_logo.png": "/tech-tank/static/media/footer_logo.038b1db2ee916111aec2.png",
     "index.html": "/tech-tank/index.html",
-    "main.e568d9d6.css.map": "/tech-tank/static/css/main.e568d9d6.css.map",
-    "main.61a109fb.js.map": "/tech-tank/static/js/main.61a109fb.js.map"
+    "main.a76ffc50.css.map": "/tech-tank/static/css/main.a76ffc50.css.map",
+    "main.caec2562.js.map": "/tech-tank/static/js/main.caec2562.js.map"
   },
   "entrypoints": [
-    "static/css/main.e568d9d6.css",
-    "static/js/main.61a109fb.js"
+    "static/css/main.a76ffc50.css",
+    "static/js/main.caec2562.js"
   ]
 }
