@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tech-tank/static/css/main.f4f55c80.css",
-    "main.js": "/tech-tank/static/js/main.e8557cd1.js",
+    "main.css": "/tech-tank/static/css/main.aa634dc4.css",
+    "main.js": "/tech-tank/static/js/main.caa9accf.js",
     "static/media/aboutus.png": "/tech-tank/static/media/aboutus.ed572123a76c353ace3d.png",
     "static/media/wireless.png": "/tech-tank/static/media/wireless.b44f3ad2b8f15f7e281d.png",
     "static/media/img1.png": "/tech-tank/static/media/img1.810ebbcd570354b5acab.png",
@@ -31,11 +31,11 @@
     "static/media/contact_left.png": "/tech-tank/static/media/contact_left.6b8a7d0034f4bb34f0ce.png",
     "static/media/footer_logo.png": "/tech-tank/static/media/footer_logo.038b1db2ee916111aec2.png",
     "index.html": "/tech-tank/index.html",
-    "main.f4f55c80.css.map": "/tech-tank/static/css/main.f4f55c80.css.map",
-    "main.e8557cd1.js.map": "/tech-tank/static/js/main.e8557cd1.js.map"
+    "main.aa634dc4.css.map": "/tech-tank/static/css/main.aa634dc4.css.map",
+    "main.caa9accf.js.map": "/tech-tank/static/js/main.caa9accf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4f55c80.css",
-    "static/js/main.e8557cd1.js"
+    "static/css/main.aa634dc4.css",
+    "static/js/main.caa9accf.js"
   ]
 }
