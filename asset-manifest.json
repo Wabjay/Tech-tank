@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tech-tank/static/css/main.9ea0f52e.css",
-    "main.js": "/tech-tank/static/js/main.af0fbb52.js",
+    "main.css": "/tech-tank/static/css/main.6393f0cd.css",
+    "main.js": "/tech-tank/static/js/main.4cce142a.js",
     "static/media/aboutus.png": "/tech-tank/static/media/aboutus.ed572123a76c353ace3d.png",
     "static/media/wireless.png": "/tech-tank/static/media/wireless.b44f3ad2b8f15f7e281d.png",
     "static/media/img1.png": "/tech-tank/static/media/img1.810ebbcd570354b5acab.png",
@@ -26,6 +26,7 @@
     "static/media/Ecommerce_banner.png": "/tech-tank/static/media/Ecommerce_banner.133e872ed8002c35fd49.png",
     "static/media/Loan_banner.png": "/tech-tank/static/media/Loan_banner.11c0227274c6faf712cf.png",
     "static/media/Ecommerce1.png": "/tech-tank/static/media/Ecommerce1.149248fa450db36d9b45.png",
+    "static/media/Our_works.png": "/tech-tank/static/media/Our_works.75622173c3712d958e51.png",
     "static/media/Homepage_2.png": "/tech-tank/static/media/Homepage_2.2f1e2b349764c1d31896.png",
     "static/media/Homepage_1.png": "/tech-tank/static/media/Homepage_1.de63129da0aee7a4ad76.png",
     "static/media/Services_1.png": "/tech-tank/static/media/Services_1.e49a71166f414df74cfc.png",
@@ -34,11 +35,11 @@
     "static/media/contact_left.png": "/tech-tank/static/media/contact_left.6b8a7d0034f4bb34f0ce.png",
     "static/media/footer_logo.png": "/tech-tank/static/media/footer_logo.038b1db2ee916111aec2.png",
     "index.html": "/tech-tank/index.html",
-    "main.9ea0f52e.css.map": "/tech-tank/static/css/main.9ea0f52e.css.map",
-    "main.af0fbb52.js.map": "/tech-tank/static/js/main.af0fbb52.js.map"
+    "main.6393f0cd.css.map": "/tech-tank/static/css/main.6393f0cd.css.map",
+    "main.4cce142a.js.map": "/tech-tank/static/js/main.4cce142a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ea0f52e.css",
-    "static/js/main.af0fbb52.js"
+    "static/css/main.6393f0cd.css",
+    "static/js/main.4cce142a.js"
   ]
 }
