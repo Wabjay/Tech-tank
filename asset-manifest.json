@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/tech-tank/static/css/main.e3cce58c.css",
-    "main.js": "/tech-tank/static/js/main.94112f1c.js",
+    "main.css": "/tech-tank/static/css/main.949ac9ba.css",
+    "main.js": "/tech-tank/static/js/main.bdb06455.js",
     "static/media/erp_solution.png": "/tech-tank/static/media/erp_solution.8742f70b2cb005028e8e.png",
-    "static/media/aboutus.jpg": "/tech-tank/static/media/aboutus.f31583ab3ae7e304ffe8.jpg",
+    "static/media/img1.jpg": "/tech-tank/static/media/img1.e981aab1e7eec7cafd6a.jpg",
     "static/media/wireless.jpg": "/tech-tank/static/media/wireless.9690580c5f766f12a801.jpg",
     "static/media/Dosemetry_banner.jpg": "/tech-tank/static/media/Dosemetry_banner.1b2204ed4ccb745ab0dd.jpg",
+    "static/media/abt2.jpg": "/tech-tank/static/media/abt2.1d98224c35e4ef6bf063.jpg",
     "static/media/Dosemetry2.jpg": "/tech-tank/static/media/Dosemetry2.348b2471849b476c3667.jpg",
     "static/media/hardware_solution.jpg": "/tech-tank/static/media/hardware_solution.03a2e8c0308606889a3a.jpg",
     "static/media/metric_system.jpg": "/tech-tank/static/media/metric_system.89c6c5c0d0c36d823dc0.jpg",
+    "static/media/abt1.jpg": "/tech-tank/static/media/abt1.a4a1c1405403b24cc62c.jpg",
     "static/media/erp_solution.jpg": "/tech-tank/static/media/erp_solution.742ef97087b7d9f9ee61.jpg",
     "static/media/Ecommerce_banner.jpg": "/tech-tank/static/media/Ecommerce_banner.4a7bfc1adf3a5d8b0ff1.jpg",
-    "static/media/img2.jpg": "/tech-tank/static/media/img2.a3378d06629b63d9219b.jpg",
     "static/media/development.jpg": "/tech-tank/static/media/development.0560e5f2b6a1065b2a0c.jpg",
-    "static/media/img1.jpg": "/tech-tank/static/media/img1.60d3cfb153c1cc9ac41b.jpg",
     "static/media/software_solution.jpg": "/tech-tank/static/media/software_solution.6cfb1a4004a44c7147f6.jpg",
     "static/media/metric_system2.jpg": "/tech-tank/static/media/metric_system2.f6ea92e1e776ba232eae.jpg",
     "static/media/design.jpg": "/tech-tank/static/media/design.b99a493882f70086f796.jpg",
     "static/media/tecnical_consult.jpg": "/tech-tank/static/media/tecnical_consult.9d543e106c8774d186b4.jpg",
     "static/media/Dosemetry3.jpg": "/tech-tank/static/media/Dosemetry3.38faef8d059403f5081e.jpg",
     "static/media/Dosemetry1.jpg": "/tech-tank/static/media/Dosemetry1.fcb6c20d75edbbbd2a32.jpg",
+    "static/media/img2.jpg": "/tech-tank/static/media/img2.5a17c87273658d95bac4.jpg",
     "static/media/Loan_banner.jpg": "/tech-tank/static/media/Loan_banner.243632f5913a8fa10afa.jpg",
     "static/media/loan_portal.jpg": "/tech-tank/static/media/loan_portal.78d654b11dcdc033988e.jpg",
     "static/media/Ecommerce1.jpg": "/tech-tank/static/media/Ecommerce1.fe6e5fda93a5ab817ab6.jpg",
@@ -39,11 +40,11 @@
     "static/media/contact_left.png": "/tech-tank/static/media/contact_left.6b8a7d0034f4bb34f0ce.png",
     "static/media/footer_logo.png": "/tech-tank/static/media/footer_logo.038b1db2ee916111aec2.png",
     "index.html": "/tech-tank/index.html",
-    "main.e3cce58c.css.map": "/tech-tank/static/css/main.e3cce58c.css.map",
-    "main.94112f1c.js.map": "/tech-tank/static/js/main.94112f1c.js.map"
+    "main.949ac9ba.css.map": "/tech-tank/static/css/main.949ac9ba.css.map",
+    "main.bdb06455.js.map": "/tech-tank/static/js/main.bdb06455.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3cce58c.css",
-    "static/js/main.94112f1c.js"
+    "static/css/main.949ac9ba.css",
+    "static/js/main.bdb06455.js"
   ]
 }
