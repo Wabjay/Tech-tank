@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/tech-tank/static/css/main.13264b96.css",
-    "main.js": "/tech-tank/static/js/main.47b96567.js",
+    "main.css": "/tech-tank/static/css/main.e3cce58c.css",
+    "main.js": "/tech-tank/static/js/main.94112f1c.js",
+    "static/media/erp_solution.png": "/tech-tank/static/media/erp_solution.8742f70b2cb005028e8e.png",
     "static/media/aboutus.jpg": "/tech-tank/static/media/aboutus.f31583ab3ae7e304ffe8.jpg",
     "static/media/wireless.jpg": "/tech-tank/static/media/wireless.9690580c5f766f12a801.jpg",
     "static/media/Dosemetry_banner.jpg": "/tech-tank/static/media/Dosemetry_banner.1b2204ed4ccb745ab0dd.jpg",
@@ -38,11 +39,11 @@
     "static/media/contact_left.png": "/tech-tank/static/media/contact_left.6b8a7d0034f4bb34f0ce.png",
     "static/media/footer_logo.png": "/tech-tank/static/media/footer_logo.038b1db2ee916111aec2.png",
     "index.html": "/tech-tank/index.html",
-    "main.13264b96.css.map": "/tech-tank/static/css/main.13264b96.css.map",
-    "main.47b96567.js.map": "/tech-tank/static/js/main.47b96567.js.map"
+    "main.e3cce58c.css.map": "/tech-tank/static/css/main.e3cce58c.css.map",
+    "main.94112f1c.js.map": "/tech-tank/static/js/main.94112f1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.13264b96.css",
-    "static/js/main.47b96567.js"
+    "static/css/main.e3cce58c.css",
+    "static/js/main.94112f1c.js"
   ]
 }
